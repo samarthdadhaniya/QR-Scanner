@@ -1,16 +1,6 @@
 Certainly! Here’s a simple `README.md` file for a Next.js project:
 
----
-
-# My Next.js Project
-
-A basic project built with Next.js.
-
-## Features
-
-- Server-side rendering
-- Static site generation
-- API routes
+# QR Generator App
 
 ## Installation
 
@@ -50,11 +40,3 @@ To start the production server, use:
 ```bash
 npm start
 ```
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-Feel free to replace placeholders like `your-username` and `your-repository` with actual values relevant to your project.
