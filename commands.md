@@ -14,5 +14,5 @@ docker build -t qr-scanner-app .
 
 ### Run the Docker Container
 ```
-docker run -d -p 3000:3000 --name qr-scanner qr-scanner-app
+docker run -p 3000:3000 qr-code-gen
 ```
